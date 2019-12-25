@@ -1,0 +1,5 @@
+1. To run this program your system should consists 'easyAI' library.
+2. So if your system have no such library, you should follow the steps of installation in windows system:
+                                    a.   Normally open CMD in your system
+                                    b.   Write 'Python -m pip install easyAI' & press enter
+                                    c.   Wait a moment, when the process was completed successfully you can try to run the program again.
